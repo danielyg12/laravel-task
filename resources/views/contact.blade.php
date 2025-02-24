@@ -2,7 +2,7 @@
 @section('meta_title', 'Contact')
 
 @section('content')
-    <div class="container">
+    <div class="container" id="app">
         <contact-form />
     </div>
 @endsection
